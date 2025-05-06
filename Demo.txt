@@ -1,3 +1,6 @@
 Print ( Hello World) 
 Alpha, Beta , Gama
-Print(" NEW LINE ADDED"))
+
+Print(" NEW LINE ADDED")
+
+Yes New one added.
